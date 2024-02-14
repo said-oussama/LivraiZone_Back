@@ -1,10 +1,10 @@
-﻿using System; // Importe les fonctionnalités de base de .NET
-using System.Collections.Generic; // Importe les collections génériques
-using System.Linq; // Importe les fonctionnalités de LINQ (Language Integrated Query)
-using System.Text; // Importe les fonctionnalités de manipulation de chaînes de caractères
-using System.Threading.Tasks; // Importe les fonctionnalités liées à la programmation asynchrone
-using Application.Interfaces; // Importe l'interface IMemberRepository
-using Domain.Entities; // Importe l'entité Member du domaine
+﻿using System;
+using System.Collections.Generic; 
+using System.Linq; 
+using System.Text; 
+using System.Threading.Tasks; 
+using Application.Interfaces; 
+using Domain.Entities; 
 
 namespace Application.Services // Définit un espace de noms pour les services de l'application
 {

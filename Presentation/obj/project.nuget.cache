@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UsBomBiQq9GyRGeyE+uS/MSzfdT0Z//Wuf+H4oPLZr2oYtxc4XUk29Cd4F0YHufj6BQQYd0Ns3Nz6sa3sFXfgg==",
+  "dgSpecHash": "2GjunBzTPSZ5cvYsl0hGr99f0gGNhRYjvMBiuiIWVSg+fossqlt/QxzLZ7pMEAdYClQpNywIBhbGMo+lHqoDtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oussa\\Desktop\\LivraiZone\\LivraiZone\\Presentation\\Presentation.csproj",
+  "projectFilePath": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oussa\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\oussa\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

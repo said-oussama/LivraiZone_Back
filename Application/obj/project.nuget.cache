@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UcpxldkeXzL5WXxY/GtS4+UWcoR81oUxOyXYMSalVLaiQkRKAJ33dDTUntnneTECVtop4XIR+ZmBBMEZS7k3Ng==",
+  "dgSpecHash": "LeRdYnyxfzuo2bz3G/BpCWZvcaUENwCf1MHm/v9lydr1pCn2W7piz8P1STGTa4jl3hbUkS7sJFrLZvw9U1XdMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oussa\\Desktop\\LivraiZone\\LivraiZone\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

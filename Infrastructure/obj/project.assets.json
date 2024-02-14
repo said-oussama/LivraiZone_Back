@@ -4057,11 +4057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oussa\\Desktop\\LivraiZone\\LivraiZone\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\oussa\\Desktop\\LivraiZone\\LivraiZone\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\oussa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oussa\\Desktop\\LivraiZone\\LivraiZone\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oussa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4079,11 +4079,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\oussa\\Desktop\\LivraiZone\\LivraiZone\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\oussa\\Desktop\\LivraiZone\\LivraiZone\\Application\\Application.csproj"
+            "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Application.csproj"
             },
-            "C:\\Users\\oussa\\Desktop\\LivraiZone\\LivraiZone\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\oussa\\Desktop\\LivraiZone\\LivraiZone\\Domain\\Domain.csproj"
+            "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Domain.csproj"
             }
           }
         }
