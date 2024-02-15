@@ -10,9 +10,16 @@ namespace Application.Services
 {
     internal class MovieService : IMovieService
     {
+        private readonly IMovieRepository _movieRepository;
+
+        public MovieService(IMovieRepository movieRepository)
+        {
+            _movieRepository = movieRepository;
+        }
         public List<Movie> GetAllMovies()
         {
-            throw new NotImplementedException();
+            var movies = _movieRepository.GetAllMovies();
+            return movies;
         }
     }
 }
