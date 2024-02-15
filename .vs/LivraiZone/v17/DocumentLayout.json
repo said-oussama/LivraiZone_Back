@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8B676E-74DB-4649-88FF-462C9BB6DD1E}|Domain\\Domain.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8B676E-74DB-4649-88FF-462C9BB6DD1E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\presentation\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\infrastructure\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\membercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\presentation\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\presentation\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\infrastructure\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF8B676E-74DB-4649-88FF-462C9BB6DD1E}|Domain\\Domain.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF8B676E-74DB-4649-88FF-462C9BB6DD1E}|Domain\\Domain.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF8B676E-74DB-4649-88FF-462C9BB6DD1E}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,47 +98,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Services\\MovieService.cs",
+              "RelativeToolTip": "Application\\Services\\MovieService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:39:08.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:35:36.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:31:42.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Entities\\Movie.cs",
+              "RelativeToolTip": "Domain\\Entities\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:23:04.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\MemberRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\MemberRepository.cs",
               "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\MemberRepository.cs",
               "RelativeToolTip": "Infrastructure\\MemberRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-09T13:25:01.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MemberContext.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\MemberContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\MemberContext.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\MemberContext.cs",
-              "RelativeToolTip": "Infrastructure\\MemberContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-12T15:07:33.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Program.cs",
-              "RelativeToolTip": "Presentation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:44:03.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "MembersController.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\MembersController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\MembersController.cs",
@@ -138,7 +179,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
+              "Title": "MemberContext.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\MemberContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MemberContext.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\MemberContext.cs",
+              "RelativeToolTip": "Infrastructure\\MemberContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T15:07:33.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T13:44:03.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\WeatherForecastController.cs",
@@ -150,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
@@ -162,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MemberService.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Services\\MemberService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\MemberService.cs",
@@ -170,16 +235,11 @@
               "RelativeToolTip": "Application\\Services\\MemberService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:17:03.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-02-09T13:17:03.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
@@ -191,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "20240213102509_one.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Migrations\\20240213102509_one.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240213102509_one.cs",
@@ -203,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Application.csproj",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",
@@ -215,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Presentation.csproj",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Presentation.csproj",
               "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
@@ -227,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\appsettings.json",
@@ -239,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Entities\\Member.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Member.cs",
@@ -251,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "IMemberServices.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\IMemberServices.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IMemberServices.cs",
@@ -263,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "ImemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\ImemberRepository.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\ImemberRepository.cs",
@@ -275,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "20240212160241_first.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Migrations\\20240212160241_first.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240212160241_first.cs",
@@ -287,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Class1.cs",
               "RelativeDocumentMoniker": "Application\\Class1.cs",
@@ -299,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
@@ -308,18 +368,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-09T13:23:12.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Class1.cs",
-              "RelativeToolTip": "Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T12:57:11.659Z"
             }
           ]
         }
