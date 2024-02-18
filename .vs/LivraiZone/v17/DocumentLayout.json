@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\presentation\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\infrastructure\\membercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\membercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\presentation\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -105,25 +105,25 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\MemberService.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Services\\MemberService.cs",
+              "RelativeToolTip": "Application\\Services\\MemberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T13:17:03.957Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Repository\\MemberRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\MemberRepository.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Repository\\MemberRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\MemberRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:25:01.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Entities\\Member.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Member.cs",
@@ -131,12 +131,11 @@
               "RelativeToolTip": "Domain\\Entities\\Member.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:00:00.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-09T13:00:00.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IMemberServices.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\IMemberServices.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IMemberServices.cs",
@@ -144,25 +143,36 @@
               "RelativeToolTip": "Application\\Interfaces\\IMemberServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:16:29.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-09T13:16:29.453Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MemberService.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Services\\MemberService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\MemberService.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Services\\MemberService.cs",
-              "RelativeToolTip": "Application\\Services\\MemberService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\MembersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:17:03.957Z",
+              "WhenOpened": "2024-02-09T13:45:23.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Repository\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Repository\\MemberRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\MemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T13:25:01.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ImemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\ImemberRepository.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\ImemberRepository.cs",
@@ -170,12 +180,11 @@
               "RelativeToolTip": "Application\\Interfaces\\ImemberRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-12T15:49:49.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T15:49:49.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\Program.cs",
@@ -183,12 +192,11 @@
               "RelativeToolTip": "Presentation\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:44:03.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-09T13:44:03.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MovieService.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Services\\MovieService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\MovieService.cs",
@@ -196,12 +204,11 @@
               "RelativeToolTip": "Application\\Services\\MovieService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAjwBUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T17:39:08.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T17:39:08.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MemberContext.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\MemberContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\MemberContext.cs",
@@ -209,21 +216,7 @@
               "RelativeToolTip": "Infrastructure\\MemberContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-12T15:07:33.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MembersController.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\MembersController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\MembersController.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\MembersController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\MembersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:45:23.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T15:07:33.655Z"
             },
             {
               "$type": "Document",
@@ -235,8 +228,7 @@
               "RelativeToolTip": "Presentation\\Presentation.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-12T15:02:39.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T15:02:39.907Z"
             },
             {
               "$type": "Document",
@@ -248,8 +240,7 @@
               "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-13T10:13:52.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-13T10:13:52.492Z"
             },
             {
               "$type": "Document",
@@ -261,8 +252,7 @@
               "RelativeToolTip": "Infrastructure\\Repository\\MovieRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T18:19:48.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T18:19:48.177Z"
             },
             {
               "$type": "Document",
@@ -274,8 +264,7 @@
               "RelativeToolTip": "Presentation\\Controllers\\MoviesController.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T18:33:24.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T18:33:24.541Z"
             },
             {
               "$type": "Document",
@@ -323,8 +312,7 @@
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-12T15:55:03.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T15:55:03.533Z"
             },
             {
               "$type": "Document",
@@ -348,8 +336,7 @@
               "RelativeToolTip": "Application\\Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-12T15:46:24.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T15:46:24.888Z"
             },
             {
               "$type": "Document",
