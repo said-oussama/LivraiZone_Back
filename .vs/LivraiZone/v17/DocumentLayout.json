@@ -105,6 +105,10 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MemberService.cs",
@@ -114,12 +118,7 @@
               "RelativeToolTip": "Application\\Services\\MemberService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:17:03.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-02-09T13:17:03.957Z"
             },
             {
               "$type": "Document",
@@ -153,7 +152,7 @@
               "RelativeDocumentMoniker": "Presentation\\Controllers\\MembersController.cs",
               "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\MembersController.cs",
               "RelativeToolTip": "Presentation\\Controllers\\MembersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-09T13:45:23.888Z",
               "EditorCaption": ""
