@@ -22,6 +22,14 @@ namespace Presentation.Controllers
             var moviesFromService = _service.GetAllMovies();
             return Ok(moviesFromService);
         }
+        [HttpPost]
+        public ActionResult<Movie> PostMovie(Movie movie) 
+        {
+        
+        var Movie = _service.CreateMovie(movie);
+            return Ok(Movie);
+        }
+
 
       
     }

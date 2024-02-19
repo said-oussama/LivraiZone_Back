@@ -8,14 +8,21 @@ using System.Threading.Tasks;
 
 namespace Application.Services
 {
-    internal class MovieService : IMovieService
+    public class MovieService : IMovieService
     {
         private readonly IMovieRepository _movieRepository;
-
+        // constructor dependency injection
         public MovieService(IMovieRepository movieRepository)
         {
             _movieRepository = movieRepository;
         }
+
+        public Movie CreateMovie(Movie movie)
+        {
+            _movieRepository.CreateMovie(movie);
+            return movie;   
+        }
+
         public List<Movie> GetAllMovies()
         {
             var movies = _movieRepository.GetAllMovies();

@@ -15,9 +15,25 @@ namespace Infrastructure.Repository
             new Movie{Id=1,Name="passion of christ",Cost=2},
             new Movie{Id=2,Name="Home Alone 4",Cost=1}
         };
+        private readonly Context _movieContext;
+
+        public MovieRepository(Context movieContext)
+        {
+            _movieContext = movieContext;
+        }
+
+        public Movie CreateMovie(Movie movie)
+        {
+            _movieContext.Movies.Add(movie);
+            _movieContext.SaveChanges();
+            return movie;
+
+
+        }
+
         public List<Movie> GetAllMovies()
         {
-            return movies;
+           return _movieContext.Movies.ToList();
         }
     }
 }

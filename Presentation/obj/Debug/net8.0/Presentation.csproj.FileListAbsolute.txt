@@ -281,3 +281,5 @@ C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\obj\Debug\net8.0\scopedcss\b
 C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
 C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
 C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\bin\Debug\net8.0\Infrastructure.pdb
