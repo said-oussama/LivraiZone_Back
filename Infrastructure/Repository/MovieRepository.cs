@@ -12,8 +12,8 @@ namespace Infrastructure.Repository
     {
         public static List<Movie> movies = new List<Movie>()
         {
-            new Movie{Id=1,Name="passion of christ",Cost=2},
-            new Movie{Id=2,Name="Home Alone 4",Cost=1}
+            //new Movie{Id=1,Name="passion of christ",Cost=2},
+            //new Movie{Id=2,Name="Home Alone 4",Cost=1}
         };
         private readonly Context _movieContext;
 
@@ -33,7 +33,7 @@ namespace Infrastructure.Repository
 
         public List<Movie> GetAllMovies()
         {
-           return _movieContext.Movies.ToList();
+            return _movieContext.Movies.ToList();
         }
     }
 }

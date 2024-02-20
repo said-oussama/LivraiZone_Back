@@ -9,7 +9,7 @@ namespace Application.Interfaces
 {
     public interface IMovieRepository
     {
-        List<Movie>GetAllMovies();
+        List<Movie> GetAllMovies();
 
         Movie CreateMovie(Movie movie);
     }

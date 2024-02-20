@@ -20,7 +20,7 @@ namespace Application.Services
         public Movie CreateMovie(Movie movie)
         {
             _movieRepository.CreateMovie(movie);
-            return movie;   
+            return movie;
         }
 
         public List<Movie> GetAllMovies()
