@@ -12,7 +12,7 @@ ConfigurationManager configuration = builder.Configuration ;
 //    optionsBuilder => optionsBuilder.EnableSensitiveDataLogging(builder.Environment.IsDevelopment()));
 // Add Database service 
 
-
+/////implement infrastructure DependencyInjection container
 builder.Services.AddInfrastructure(builder.Configuration);
 
 // Add services to the container.
