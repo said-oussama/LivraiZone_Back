@@ -15,6 +15,7 @@ ConfigurationManager configuration = builder.Configuration ;
 /////implement infrastructure DependencyInjection container
 builder.Services.AddInfrastructure(builder.Configuration);
 
+
 // Add services to the container.
 builder.Services.AddDbContext<Context>() ;
 builder.Services.AddControllers();
