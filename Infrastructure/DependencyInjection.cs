@@ -25,8 +25,10 @@ namespace Infrastructure
 
             services.AddDbContext<Context>(opt => opt.UseSqlServer(configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("Presentation")));
 
-            services.AddScoped<IMovieService, MovieService>();
+            services.AddScoped<IRentalService, RentalService>();
+            services.AddScoped<IRentalRepository, RentalRepository>();
             services.AddScoped<IMovieRepository, MovieRepository>();
+            services.AddScoped<IMovieService, MovieService>();
 
             return services;
         }

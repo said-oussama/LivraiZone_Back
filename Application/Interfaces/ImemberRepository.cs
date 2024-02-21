@@ -5,10 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using Domain.Entities;
 
-namespace Application
+namespace Application.Interfaces
 {
     public interface IMemberRepository
     {
         List<Member> GetAllMembers();
+
     }
 }

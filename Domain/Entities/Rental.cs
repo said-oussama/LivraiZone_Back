@@ -8,9 +8,9 @@
         public decimal TotalCost { get; set; }
 
         // one to many relationship
-        public ICollection<Member> Members { get; set; }
+        public ICollection<Member>? Members { get; set; }
 
         //many to many relation
-        public IList<MovieRental> MovieRentals { get; set; }
+        public IList<MovieRental>? MovieRentals { get; set; }
     }
 }

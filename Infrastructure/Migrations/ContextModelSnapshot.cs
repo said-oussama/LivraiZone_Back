@@ -42,7 +42,7 @@ namespace Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("RentalId")
+                    b.Property<int?>("RentalId")
                         .HasColumnType("int");
 
                     b.HasKey("MemberId");
@@ -116,9 +116,7 @@ namespace Infrastructure.Migrations
                 {
                     b.HasOne("Domain.Entities.Rental", "Rental")
                         .WithMany("Members")
-                        .HasForeignKey("RentalId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("RentalId");
 
                     b.Navigation("Rental");
                 });
