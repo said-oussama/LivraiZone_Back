@@ -7,24 +7,44 @@
       "RelativeMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\handlers\\getrentalbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\handlers\\getrentalbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\handlers\\addrentalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\handlers\\addrentalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\handlers\\getrentalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\handlers\\getrentalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\queries\\getrentalbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\queries\\getrentalbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\commands\\addrentalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\commands\\addrentalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\infrastructure\\repository\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\handlers\\getrentalbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\handlers\\getrentalbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8B676E-74DB-4649-88FF-462C9BB6DD1E}|Domain\\Domain.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8B676E-74DB-4649-88FF-462C9BB6DD1E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\handlers\\getrentalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\handlers\\getrentalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\queries\\getrentalquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\queries\\getrentalquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\queries\\getrentalbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\queries\\getrentalbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\presentation\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\queries\\getrentalquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\queries\\getrentalquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -69,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AF8B676E-74DB-4649-88FF-462C9BB6DD1E}|Domain\\Domain.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\domain\\entities\\movierental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF8B676E-74DB-4649-88FF-462C9BB6DD1E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\movierental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF8B676E-74DB-4649-88FF-462C9BB6DD1E}|Domain\\Domain.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF8B676E-74DB-4649-88FF-462C9BB6DD1E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42BE0E57-2CC8-47F7-892B-F8A50CBCAEB7}|Infrastructure\\Infrastructure.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\infrastructure\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -202,7 +210,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -211,6 +219,95 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AddRentalHandler.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Handlers\\AddRentalHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\AddRentalHandler.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Handlers\\AddRentalHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\AddRentalHandler.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:28:50.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetRentalHandler.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Handlers\\GetRentalHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\GetRentalHandler.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Handlers\\GetRentalHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\GetRentalHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:15:00.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalsController.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\RentalsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\RentalsController.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\RentalsController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\RentalsController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T13:44:17.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Entities\\Movie.cs",
+              "RelativeToolTip": "Domain\\Entities\\Movie.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA6wA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:23:04.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddRentalCommand.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Commands\\AddRentalCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\AddRentalCommand.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Commands\\AddRentalCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\AddRentalCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T14:37:57.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Repository\\RentalRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\RentalRepository.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Repository\\RentalRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\RentalRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T11:37:10.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetRentalQuery.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Queries\\GetRentalQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetRentalQuery.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Queries\\GetRentalQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\GetRentalQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:28:04.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GetRentalByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Handlers\\GetRentalByIdHandler.cs",
               "RelativeDocumentMoniker": "Application\\Handlers\\GetRentalByIdHandler.cs",
@@ -223,7 +320,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T13:44:03.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T11:53:36.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "GetRentalByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Queries\\GetRentalByIdQuery.cs",
               "RelativeDocumentMoniker": "Application\\Queries\\GetRentalByIdQuery.cs",
@@ -231,64 +352,11 @@
               "RelativeToolTip": "Application\\Queries\\GetRentalByIdQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T14:02:51.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T14:02:51.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T11:53:36.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RentalsController.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\RentalsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\RentalsController.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\RentalsController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\RentalsController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAwDkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T13:44:17.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RentalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Repository\\RentalRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\RentalRepository.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Repository\\RentalRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\RentalRepository.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T11:37:10.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetRentalHandler.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Handlers\\GetRentalHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Handlers\\GetRentalHandler.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Handlers\\GetRentalHandler.cs",
-              "RelativeToolTip": "Application\\Handlers\\GetRentalHandler.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T16:15:00.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "RentalService.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Services\\RentalService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\RentalService.cs",
@@ -300,20 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetRentalQuery.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Queries\\GetRentalQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Queries\\GetRentalQuery.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Queries\\GetRentalQuery.cs",
-              "RelativeToolTip": "Application\\Queries\\GetRentalQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:28:04.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Rental.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Entities\\Rental.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Rental.cs",
@@ -325,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Context.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Context.cs",
@@ -333,12 +388,11 @@
               "RelativeToolTip": "Infrastructure\\Context.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAxwBAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-12T15:07:33.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T15:07:33.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\MoviesController.cs",
@@ -346,24 +400,11 @@
               "RelativeToolTip": "Presentation\\Controllers\\MoviesController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T18:33:24.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T18:33:24.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Program.cs",
-              "RelativeToolTip": "Presentation\\Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:44:03.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "GetRentalHandler.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Commands\\GetRentalHandler.cs",
               "RelativeDocumentMoniker": "Application\\Commands\\GetRentalHandler.cs",
@@ -374,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Presentation.csproj",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Presentation.csproj",
               "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
@@ -386,19 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Entities\\Movie.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Movie.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Entities\\Movie.cs",
-              "RelativeToolTip": "Domain\\Entities\\Movie.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA+wAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T17:23:04.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Application.csproj",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",
@@ -410,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "MovieRental.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Entities\\MovieRental.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\MovieRental.cs",
@@ -422,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
@@ -434,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Entities\\Member.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Member.cs",
@@ -446,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "MovieConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Configurations\\MovieConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Configurations\\MovieConfiguration.cs",
@@ -458,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "20240221143114_test1.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Migrations\\20240221143114_test1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240221143114_test1.cs",
@@ -470,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "MovieRepository.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Repository\\MovieRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\MovieRepository.cs",
@@ -482,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "MemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Repository\\MemberRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\MemberRepository.cs",
@@ -494,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "IMemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\IMemberRepository.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IMemberRepository.cs",
@@ -506,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "20240221141734_test.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Migrations\\20240221141734_test.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240221141734_test.cs",
@@ -518,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "MembersController.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\MembersController.cs",
               "RelativeDocumentMoniker": "Presentation\\Controllers\\MembersController.cs",
@@ -530,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "RentalConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Configurations\\RentalConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Configurations\\RentalConfiguration.cs",
@@ -542,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "MemberConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Configurations\\MemberConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Configurations\\MemberConfiguration.cs",
@@ -554,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "MovieService.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Services\\MovieService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\MovieService.cs",
@@ -566,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "MemberService.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Services\\MemberService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\MemberService.cs",
@@ -578,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "IMemberService.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\IMemberService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IMemberService.cs",
@@ -590,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "IMovieRepository.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\IMovieRepository.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IMovieRepository.cs",
@@ -602,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "IMovieService.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\IMovieService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IMovieService.cs",
@@ -614,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "IRentalService.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\IRentalService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IRentalService.cs",
@@ -626,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "IRentalRepository.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Interfaces\\IRentalRepository.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IRentalRepository.cs",
@@ -638,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\appsettings.json",
@@ -650,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "MovieRentalConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Configurations\\MovieRentalConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Configurations\\MovieRentalConfiguration.cs",
@@ -662,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "20240220143708_3.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Migrations\\20240220143708_3.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240220143708_3.cs",
@@ -674,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "configuration.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Configurations\\configuration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Configurations\\configuration.cs",
@@ -686,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "20240220143017_1.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Migrations\\20240220143017_1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240220143017_1.cs",
@@ -698,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "20240220142828_2.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Migrations\\20240220142828_2.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240220142828_2.cs",
@@ -709,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "20240220142810_2.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Migrations\\20240220142810_2.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240220142810_2.cs",
@@ -720,7 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "20240220142452_1.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Migrations\\20240220142452_1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240220142452_1.cs",
@@ -731,7 +760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "20240220141426_migg.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Migrations\\20240220141426_migg.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240220141426_migg.cs",
@@ -742,7 +771,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "20240220140456_migg.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Migrations\\20240220140456_migg.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240220140456_migg.cs",
@@ -753,7 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "20240220140005_migg.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Migrations\\20240220140005_migg.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240220140005_migg.cs",
@@ -764,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Presentation\\Properties\\launchSettings.json",
@@ -776,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "Domain.csproj",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",

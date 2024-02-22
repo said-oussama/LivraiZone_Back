@@ -1,4 +1,5 @@
-﻿using Application.Interfaces;
+﻿using Application.Commands;
+using Application.Interfaces;
 using Application.Queries;
 using Domain.Entities;
 using MediatR;
@@ -52,6 +53,12 @@ namespace Presentation.Controllers
         public async Task<Rental> Get(int id)
         {
             return await _mediator.Send(new GetRentalByIdQuery(id));
+        }
+
+        [HttpPost]
+        public async Task <Rental> Post(Rental rental)
+        {
+           return await _mediator.Send(new AddRentalCommand(rental));
         }
 
 
