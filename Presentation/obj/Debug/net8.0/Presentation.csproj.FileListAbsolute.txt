@@ -283,3 +283,6 @@ C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\obj\Debug\net8.0\Presentatio
 C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\obj\Debug\net8.0\ref\Presentation.dll
 C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\bin\Debug\net8.0\Infrastructure.dll
 C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\bin\Debug\net8.0\MediatR.dll
+C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\oussa\Desktop\LivraiZone_Back\Presentation\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

@@ -30,9 +30,13 @@ namespace Infrastructure
             services.AddScoped<IRentalRepository, RentalRepository>();
             services.AddScoped<IMovieRepository, MovieRepository>();
             services.AddScoped<IMovieService, MovieService>();
-            services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
+            //services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
             //services.AddMediatR(typeof(RentalRepository).Assembly);
+            // services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(AppDomain.CurrentDomain.GetAssemblies()));
+            // services.AddMediatR(cfg => cfg.AsTransient());
+            //services.AddMediatR(typeof(MovieRepository).Assembly);
             services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(AppDomain.CurrentDomain.GetAssemblies()));
+
 
 
             return services;
