@@ -36,6 +36,7 @@ namespace Infrastructure
             // services.AddMediatR(cfg => cfg.AsTransient());
             //services.AddMediatR(typeof(MovieRepository).Assembly);
             services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(AppDomain.CurrentDomain.GetAssemblies()));
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 
 
