@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\datatransferobjects\\rentalreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\datatransferobjects\\rentalreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\presentation\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F6B9F53-FE5B-4A3C-A02C-162CA1BF1395}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\queries\\getrentalbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\queries\\getrentalbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\application\\datatransferobjects\\rentalreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D01CCB83-B067-4C69-869A-29F2AA712B8B}|Application\\Application.csproj|solutionrelative:application\\datatransferobjects\\rentalreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF8B676E-74DB-4649-88FF-462C9BB6DD1E}|Domain\\Domain.csproj|c:\\users\\oussa\\desktop\\livraizone_back\\domain\\entities\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -222,24 +222,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RentalAM.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\AutoMapper\\RentalAM.cs",
-              "RelativeDocumentMoniker": "Application\\AutoMapper\\RentalAM.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\AutoMapper\\RentalAM.cs",
-              "RelativeToolTip": "Application\\AutoMapper\\RentalAM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Title": "RentalsController.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\RentalsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\RentalsController.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\RentalsController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\RentalsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T13:06:27.284Z",
+              "WhenOpened": "2024-02-21T13:44:17.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RentalRepository.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\Repository\\RentalRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\RentalRepository.cs",
@@ -247,12 +251,11 @@
               "RelativeToolTip": "Infrastructure\\Repository\\RentalRepository.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAAwBkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T11:37:10.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T11:37:10.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GetRentalHandler.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Handlers\\GetRentalHandler.cs",
               "RelativeDocumentMoniker": "Application\\Handlers\\GetRentalHandler.cs",
@@ -260,12 +263,11 @@
               "RelativeToolTip": "Application\\Handlers\\GetRentalHandler.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAuwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T16:15:00.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T16:15:00.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
@@ -273,25 +275,11 @@
               "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAQwCYAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T11:53:36.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-19T11:53:36.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RentalsController.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\RentalsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\RentalsController.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Presentation\\Controllers\\RentalsController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\RentalsController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAB0AAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T13:44:17.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GetRentalQuery.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Queries\\GetRentalQuery.cs",
               "RelativeDocumentMoniker": "Application\\Queries\\GetRentalQuery.cs",
@@ -299,12 +287,36 @@
               "RelativeToolTip": "Application\\Queries\\GetRentalQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:28:04.336Z",
+              "WhenOpened": "2024-02-21T15:28:04.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\DataTransferObjects\\RentalReadDto.cs",
+              "RelativeDocumentMoniker": "Application\\DataTransferObjects\\RentalReadDto.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\DataTransferObjects\\RentalReadDto.cs",
+              "RelativeToolTip": "Application\\DataTransferObjects\\RentalReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T12:13:33.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "RentalAM.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\AutoMapper\\RentalAM.cs",
+              "RelativeDocumentMoniker": "Application\\AutoMapper\\RentalAM.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\AutoMapper\\RentalAM.cs",
+              "RelativeToolTip": "Application\\AutoMapper\\RentalAM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T13:06:27.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Application.csproj",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",
@@ -312,12 +324,11 @@
               "RelativeToolTip": "Application\\Application.csproj",
               "ViewState": "AQIAAA0AAACA0L8TcKIpwAoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-12T15:46:24.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T15:46:24.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RentalService.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Services\\RentalService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\RentalService.cs",
@@ -325,12 +336,11 @@
               "RelativeToolTip": "Application\\Services\\RentalService.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAqwB4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T17:39:08.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T17:39:08.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "GetRentalByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\Queries\\GetRentalByIdQuery.cs",
               "RelativeDocumentMoniker": "Application\\Queries\\GetRentalByIdQuery.cs",
@@ -338,21 +348,7 @@
               "RelativeToolTip": "Application\\Queries\\GetRentalByIdQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T14:02:51.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RentalReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\DataTransferObjects\\RentalReadDto.cs",
-              "RelativeDocumentMoniker": "Application\\DataTransferObjects\\RentalReadDto.cs",
-              "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\DataTransferObjects\\RentalReadDto.cs",
-              "RelativeToolTip": "Application\\DataTransferObjects\\RentalReadDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T12:13:33.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T14:02:51.696Z"
             },
             {
               "$type": "Document",
@@ -364,8 +360,7 @@
               "RelativeToolTip": "Domain\\Entities\\Rental.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T15:37:10.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-19T15:37:10.547Z"
             },
             {
               "$type": "Document",
@@ -377,8 +372,7 @@
               "RelativeToolTip": "Application\\DataTransferObjects\\DataTransferObjects.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T00:05:31.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-23T00:05:31.702Z"
             },
             {
               "$type": "Document",
@@ -390,8 +384,7 @@
               "RelativeToolTip": "Infrastructure\\Repository\\MemberRepository.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:25:01.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-09T13:25:01.977Z"
             },
             {
               "$type": "Document",
@@ -403,8 +396,7 @@
               "RelativeToolTip": "Domain\\Entities\\Movie.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA4wA0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T17:23:04.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T17:23:04.542Z"
             },
             {
               "$type": "Document",
@@ -416,8 +408,7 @@
               "RelativeToolTip": "Application\\Services\\MemberService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:17:03.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-09T13:17:03.957Z"
             },
             {
               "$type": "Document",
@@ -429,12 +420,7 @@
               "RelativeToolTip": "Application\\Handlers\\AddRentalHandler.cs",
               "ViewState": "AQIAABEAAAAAAAAAAIBJwBYAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T20:28:50.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-02-22T20:28:50.476Z"
             },
             {
               "$type": "Document",
@@ -446,8 +432,7 @@
               "RelativeToolTip": "Application\\Commands\\AddRentalCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T14:37:57.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T14:37:57.226Z"
             },
             {
               "$type": "Document",
@@ -459,8 +444,7 @@
               "RelativeToolTip": "Application\\Handlers\\GetRentalByIdHandler.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAIBJwBcAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T14:09:08.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T14:09:08.583Z"
             },
             {
               "$type": "Document",
@@ -472,8 +456,7 @@
               "RelativeToolTip": "Presentation\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAIBJwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:44:03.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-09T13:44:03.242Z"
             },
             {
               "$type": "Document",
@@ -485,8 +468,7 @@
               "RelativeToolTip": "Infrastructure\\Context.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAxwBAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-12T15:07:33.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T15:07:33.655Z"
             },
             {
               "$type": "Document",
@@ -498,8 +480,7 @@
               "RelativeToolTip": "Presentation\\Controllers\\MoviesController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIBJwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T18:33:24.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T18:33:24.541Z"
             },
             {
               "$type": "Document",
@@ -522,8 +503,7 @@
               "RelativeToolTip": "Presentation\\Presentation.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-12T15:02:39.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T15:02:39.907Z"
             },
             {
               "$type": "Document",
@@ -535,8 +515,7 @@
               "RelativeToolTip": "Domain\\Entities\\MovieRental.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T15:52:32.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-19T15:52:32.302Z"
             },
             {
               "$type": "Document",
@@ -548,8 +527,7 @@
               "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-13T10:13:52.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-13T10:13:52.492Z"
             },
             {
               "$type": "Document",
@@ -561,8 +539,7 @@
               "RelativeToolTip": "Domain\\Entities\\Member.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA5wBIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:00:00.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-09T13:00:00.587Z"
             },
             {
               "$type": "Document",
@@ -574,8 +551,7 @@
               "RelativeToolTip": "Infrastructure\\Configurations\\MovieConfiguration.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAuwBIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T11:03:36.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T11:03:36.647Z"
             },
             {
               "$type": "Document",
@@ -587,8 +563,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240221143114_test1.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T14:31:14.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T14:31:14.15Z"
             },
             {
               "$type": "Document",
@@ -600,8 +575,7 @@
               "RelativeToolTip": "Infrastructure\\Repository\\MovieRepository.cs",
               "ViewState": "AQIAABQAAAAAAAAAAADwvxsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T18:19:48.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T18:19:48.177Z"
             },
             {
               "$type": "Document",
@@ -613,8 +587,7 @@
               "RelativeToolTip": "Application\\Interfaces\\IMemberRepository.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAWwAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T12:07:52.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T12:07:52.849Z"
             },
             {
               "$type": "Document",
@@ -626,8 +599,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240221141734_test.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T14:17:34.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T14:17:34.159Z"
             },
             {
               "$type": "Document",
@@ -639,8 +611,7 @@
               "RelativeToolTip": "Presentation\\Controllers\\MembersController.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T13:45:23.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-09T13:45:23.888Z"
             },
             {
               "$type": "Document",
@@ -652,8 +623,7 @@
               "RelativeToolTip": "Infrastructure\\Configurations\\RentalConfiguration.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T11:22:08.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T11:22:08.992Z"
             },
             {
               "$type": "Document",
@@ -665,8 +635,7 @@
               "RelativeToolTip": "Infrastructure\\Configurations\\MemberConfiguration.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAqwBIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T13:45:29.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T13:45:29.422Z"
             },
             {
               "$type": "Document",
@@ -678,8 +647,7 @@
               "RelativeToolTip": "Application\\Services\\MovieService.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwBMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T11:32:13.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T11:32:13.199Z"
             },
             {
               "$type": "Document",
@@ -691,8 +659,7 @@
               "RelativeToolTip": "Application\\Interfaces\\IMemberService.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAtwAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T11:45:52.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T11:45:52.656Z"
             },
             {
               "$type": "Document",
@@ -704,8 +671,7 @@
               "RelativeToolTip": "Application\\Interfaces\\IMovieRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T17:31:42.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T17:31:42.65Z"
             },
             {
               "$type": "Document",
@@ -717,8 +683,7 @@
               "RelativeToolTip": "Application\\Interfaces\\IMovieService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T11:29:09.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T11:29:09.016Z"
             },
             {
               "$type": "Document",
@@ -730,8 +695,7 @@
               "RelativeToolTip": "Application\\Interfaces\\IRentalService.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAWwAkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T17:35:36.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T17:35:36.74Z"
             },
             {
               "$type": "Document",
@@ -743,8 +707,7 @@
               "RelativeToolTip": "Application\\Interfaces\\IRentalRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwAcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-12T15:49:49.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T15:49:49.618Z"
             },
             {
               "$type": "Document",
@@ -756,8 +719,7 @@
               "RelativeToolTip": "Presentation\\appsettings.json",
               "ViewState": "AQIAAAMAAAAAAAAAAAAmwAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-12T15:17:09.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T15:17:09.821Z"
             },
             {
               "$type": "Document",
@@ -769,8 +731,7 @@
               "RelativeToolTip": "Infrastructure\\Configurations\\MovieRentalConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T11:03:06.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T11:03:06.415Z"
             },
             {
               "$type": "Document",
@@ -782,8 +743,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240220143708_3.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T14:37:08.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T14:37:08.559Z"
             },
             {
               "$type": "Document",
@@ -795,8 +755,7 @@
               "RelativeToolTip": "Infrastructure\\Configurations\\configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T16:02:20.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-19T16:02:20.472Z"
             },
             {
               "$type": "Document",
@@ -808,8 +767,7 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20240220143017_1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T14:30:17.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T14:30:17.347Z"
             },
             {
               "$type": "Document",
@@ -887,8 +845,7 @@
               "RelativeToolTip": "Presentation\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-19T13:51:59.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-19T13:51:59.52Z"
             },
             {
               "$type": "Document",
@@ -900,8 +857,7 @@
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-12T15:55:03.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T15:55:03.533Z"
             }
           ]
         }

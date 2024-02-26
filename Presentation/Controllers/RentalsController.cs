@@ -1,4 +1,5 @@
 ﻿using Application.Commands;
+using Application.DataTransferObjects;
 using Application.Interfaces;
 using Application.Queries;
 using AutoMapper;
@@ -31,14 +32,14 @@ namespace Presentation.Controllers
         //}
 
         [HttpGet]
-        public async Task<List<RentalDTO>> Get()
+        public async Task<List<RentalReadDto>> Get()
         {
             var rentals = await _mediator.Send(new GetRentalQuery());
 
             // Mapper les objets Rental vers RentalDTO en utilisant AutoMapper
-            var rentalDTOs = _mapper.Map<List<RentalDTO>>(rentals);
+            var rentalDTO = _mapper.Map<List<RentalReadDto>>(rentals);
 
-            return rentalDTOs;
+            return rentalDTO;
         }
 
 
