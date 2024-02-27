@@ -10,5 +10,7 @@ namespace Application.DataTransferObjects
     {
         public int RentalId { get; set; }
         public decimal TotalCost { get; set; }
+
+        public int wess { get; set; }
     }
 }

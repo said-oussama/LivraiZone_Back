@@ -15,7 +15,7 @@ namespace Domain.Entities
 
         //linking one to many
 
-        public int? RentalId { get; set; }
+        public Guid? RentalId { get; set; }
         public Rental? Rental { get; set; }
 
     }

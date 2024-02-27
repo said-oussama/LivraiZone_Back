@@ -15,7 +15,11 @@ namespace Application.AutoMapper
         {
             // source -> destination
 
-            CreateMap<Rental,RentalReadDto>();  
+            CreateMap<Rental,RentalReadDto>().ForMember(
+                des => des.wess,
+                opt => opt.MapFrom(src => $"{src.RentalId}{src.RentalId}"));
+
+            CreateMap<RentalCreateDto, Rental>();
         }
     }
 }

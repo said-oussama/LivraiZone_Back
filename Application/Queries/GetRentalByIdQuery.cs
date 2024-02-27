@@ -8,5 +8,5 @@ using System.Threading.Tasks;
 
 namespace Application.Queries
 {
-    public record GetRentalByIdQuery(int id) : IRequest<Rental>;
+    public record GetRentalByIdQuery(Guid id) : IRequest<Rental>;
 }

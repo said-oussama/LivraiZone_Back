@@ -21,7 +21,7 @@ namespace Presentation.Controllers
         public RentalsController(IMediator mediator, IMapper mapper)
         {
             _mediator = mediator;
-            _mapper= mapper;
+            _mapper = mapper;
         }
 
         // GET: api/<MoviesController>
@@ -64,18 +64,55 @@ namespace Presentation.Controllers
         //}
 
         [HttpGet("{id}")]
-        public async Task<Rental> Get(int id)
+        public async Task<Rental> Get(Guid id)
         {
             return await _mediator.Send(new GetRentalByIdQuery(id));
         }
 
+        //[HttpPost]
+        //public async Task <Rental> Post(Rental rental)
+        //{
+        //   return await _mediator.Send(new AddRentalCommand(rental));
+        //}
+
         [HttpPost]
-        public async Task <Rental> Post(Rental rental)
-        {
-           return await _mediator.Send(new AddRentalCommand(rental));
+        public async Task<ActionResult<RentalReadDto>> Post(RentalCreateDto rental)
+        {  // Map RentalCreateDto to Rental entity
+            var rentalEntity = _mapper.Map<Rental>(rental);
+
+
+
+            try
+            {
+                // Send the Rental entity to the AddRentalCommand
+                await _mediator.Send(new AddRentalCommand(rentalEntity));
+
+                // Map the Rental entity to RentalReadDto
+                var rentalReadDto = _mapper.Map<RentalReadDto>(rentalEntity);
+
+                // Return the mapped RentalReadDto
+                return Ok(rentalReadDto);
+            }
+            catch (Exception ex)
+            {
+                // Handle any exceptions that occur during command execution
+                return StatusCode(500, $"An error occurred while creating the rental: {ex.Message}");
+
+            }
+
+
+
+            ////////////////////////////////////
+
+            //        // map user to read dto
+            //        var userReadDto=_mapper.Map<RentalReadDto>(createUser);
+
+
+            //    return await _mediator.Send(new AddRentalCommand(rental));
+            //}
+
+
+
         }
-
-
-
     }
 }

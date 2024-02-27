@@ -95,13 +95,13 @@
     "Parameters": [
       {
         "Name": "rental",
-        "Type": "Domain.Entities.Rental",
+        "Type": "Application.DataTransferObjects.RentalCreateDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Domain.Entities.Rental",
+        "Type": "Application.DataTransferObjects.RentalReadDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -121,7 +121,7 @@
     "Parameters": [
       {
         "Name": "id",
-        "Type": "System.Int32",
+        "Type": "System.Guid",
         "IsRequired": true
       }
     ],

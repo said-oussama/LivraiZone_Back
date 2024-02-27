@@ -25,6 +25,7 @@ namespace Infrastructure.Repository
 
         public Rental CreateRental(Rental rental)
         {
+            rental.RentalId = Guid.NewGuid();
             _rentalContext.Rentals.Add(rental);
             _rentalContext.SaveChanges();
             return rental;
