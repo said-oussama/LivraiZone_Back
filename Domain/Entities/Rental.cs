@@ -1,7 +1,10 @@
-﻿namespace Domain.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Domain.Entities
 {
     public class Rental
     {
+         //[Key]
         public Guid RentalId { get; set; }
         public DateTime RentalDate { get; set; }
         public DateTime RentalExpiry { get; set; }

@@ -1,5 +1,7 @@
-﻿using Application.Interfaces;
+﻿using Application.DataTransferObjects;
+using Application.Interfaces;
 using Application.Queries;
+using AutoMapper;
 using Domain.Entities;
 using MediatR;
 using System;
@@ -10,18 +12,29 @@ using System.Threading.Tasks;
 
 namespace Application.Commands
 {
-    public class GetRentalHandler : IRequestHandler<GetRentalQuery, List<Rental>>
+    public class GetRentalHandler : IRequestHandler<GetRentalQuery, List<RentalReadDto>>
     {
         private readonly IRentalRepository _rentalRepository;
+        private readonly IMapper _mapper;
 
-        public GetRentalHandler(IRentalRepository rentalRepository)
-        {
+        public GetRentalHandler(IRentalRepository rentalRepository,IMapper mapper)
+        {  
             _rentalRepository = rentalRepository;
+            _mapper = mapper;
         }
-        public Task<List<Rental>> Handle(GetRentalQuery request, CancellationToken cancellationToken)
+        public async Task<List<RentalReadDto>> Handle(GetRentalQuery request, CancellationToken cancellationToken)
         {
-            return Task.FromResult(_rentalRepository.GetAllRentals());
+            var rentals = await _rentalRepository.GetAsync();
+            var data = _mapper.Map<List<RentalReadDto>>(rentals);
+            return data;
         }
+
+        //Task<List<RentalReadDto>> IRequestHandler<GetRentalQuery, List<RentalReadDto>>.Handle(GetRentalQuery request, CancellationToken cancellationToken)
+        //{
+        //    var rentals = await _rentalRepository.GetAsync();
+        //    var data = _mapper.Map<List<Rental>>(rentals);
+        //    return data;
+        //}
     }
 
 }

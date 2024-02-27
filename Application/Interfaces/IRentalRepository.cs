@@ -7,10 +7,10 @@ using Domain.Entities;
 
 namespace Application.Interfaces
 {
-    public interface IRentalRepository
+    public interface IRentalRepository : IGenericRepository<Rental>
     {
-        List<Rental> GetAllRentals();
+        //List<Rental> GetAllRentals();
 
-        Rental CreateRental(Rental rental);
+        //Rental CreateRental(Rental rental);
     }
 }

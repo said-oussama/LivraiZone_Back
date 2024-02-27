@@ -1,5 +1,7 @@
 ﻿using Application.Commands;
+using Application.DataTransferObjects;
 using Application.Interfaces;
+using AutoMapper;
 using Domain.Entities;
 using MediatR;
 using System;
@@ -10,17 +12,24 @@ using System.Threading.Tasks;
 
 namespace Application.Handlers
 {
-    public class AddRentalHandler : IRequestHandler<AddRentalCommand, Rental>
+    public class AddRentalHandler : IRequestHandler<AddRentalCommand, Guid>
     {
         private readonly IRentalRepository _rentalRepository;
+        private readonly IMapper _mapper;
 
-        public AddRentalHandler(IRentalRepository rentalRepository)
+        public AddRentalHandler(IRentalRepository rentalRepository,IMapper mapper)
         {
+            _mapper=mapper;
             _rentalRepository = rentalRepository;
         }
-        public Task<Rental> Handle(AddRentalCommand request, CancellationToken cancellationToken)
+        public async Task<Guid> Handle(AddRentalCommand request, CancellationToken cancellationToken)
         {
-            return Task.FromResult(_rentalRepository.CreateRental(request.model));
+            var RentalToCreate = _mapper.Map<Rental>(request);
+            //return Task.FromResult(_rentalRepository.CreateAsync(RentalToCreate);
+
+            await _rentalRepository.CreateAsync(RentalToCreate);
+
+            return RentalToCreate.RentalId;
         }
     }
 }

@@ -8,9 +8,9 @@ namespace Application.DataTransferObjects
 {
     public class RentalReadDto
     {
-        public int RentalId { get; set; }
+        public Guid RentalId { get; set; }
         public decimal TotalCost { get; set; }
 
-        public int wess { get; set; }
+       /// public int wess { get; set; }
     }
 }

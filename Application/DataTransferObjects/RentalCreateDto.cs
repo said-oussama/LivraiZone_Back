@@ -9,5 +9,7 @@ namespace Application.DataTransferObjects
     public class RentalCreateDto
     {
         public decimal TotalCost { get; set; }
+        public DateTime RentalDate { get; set; }
+
     }
 }

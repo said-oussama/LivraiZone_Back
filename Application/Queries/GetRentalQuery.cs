@@ -1,4 +1,5 @@
-﻿using Domain.Entities;
+﻿using Application.DataTransferObjects;
+using Domain.Entities;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -10,5 +11,5 @@ namespace Application.Queries
 {
 
     // IRequest est l'interface de MdiatR
-    public record GetRentalQuery() : IRequest<List<Rental>>;
+    public record GetRentalQuery() : IRequest<List<RentalReadDto>>;
 }

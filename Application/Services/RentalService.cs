@@ -8,7 +8,8 @@ using System.Threading.Tasks;
 
 namespace Application.Services
 {
-    public class RentalService : IRentalService
+    public class RentalService 
+        //: IRentalService
     {
         private readonly IRentalRepository _rentalRepository;
         // constructor dependency injection
@@ -17,16 +18,16 @@ namespace Application.Services
             _rentalRepository = rentalRepository;
         }
 
-        public Rental CreateRental(Rental rental)
-        {
-            _rentalRepository.CreateRental(rental);
-            return rental;
-        }
+        //public Rental CreateRental(Rental rental)
+        //{
+        //    _rentalRepository.CreateRental(rental);
+        //    return rental;
+        //}
 
-        public List<Rental> GetAllRentals()
-        {
-            var rentals = _rentalRepository.GetAllRentals();
-            return rentals;
-        }
+        //public List<Rental> GetAllRentals()
+        //{
+        //    var rentals = _rentalRepository.GetAllRentals();
+        //    return rentals;
+        //}
     }
 }

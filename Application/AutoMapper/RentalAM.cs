@@ -1,4 +1,5 @@
-﻿using Application.DataTransferObjects;
+﻿using Application.Commands;
+using Application.DataTransferObjects;
 using AutoMapper;
 using Domain.Entities;
 using System;
@@ -15,11 +16,15 @@ namespace Application.AutoMapper
         {
             // source -> destination
 
-            CreateMap<Rental,RentalReadDto>().ForMember(
-                des => des.wess,
-                opt => opt.MapFrom(src => $"{src.RentalId}{src.RentalId}"));
+            CreateMap<Rental, RentalReadDto>();
+                //.ForMember(
+                //des => des.wess,
+                //opt => opt.MapFrom(src => $"{src.RentalId}{src.RentalId}")
+                //);
 
             CreateMap<RentalCreateDto, Rental>();
+
+            CreateMap<AddRentalCommand, Rental>();
         }
     }
 }

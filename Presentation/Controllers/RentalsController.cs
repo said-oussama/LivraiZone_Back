@@ -37,9 +37,8 @@ namespace Presentation.Controllers
             var rentals = await _mediator.Send(new GetRentalQuery());
 
             // Mapper les objets Rental vers RentalDTO en utilisant AutoMapper
-            var rentalDTO = _mapper.Map<List<RentalReadDto>>(rentals);
 
-            return rentalDTO;
+            return rentals;
         }
 
 
@@ -70,35 +69,36 @@ namespace Presentation.Controllers
         }
 
         //[HttpPost]
-        //public async Task <Rental> Post(Rental rental)
+        //public async Task<Rental> Post(Rental rental)
         //{
-        //   return await _mediator.Send(new AddRentalCommand(rental));
+        //    return await _mediator.Send(new AddRentalCommand(rental));
         //}
 
         [HttpPost]
-        public async Task<ActionResult<RentalReadDto>> Post(RentalCreateDto rental)
+        public async Task<ActionResult> Post(AddRentalCommand rental)
         {  // Map RentalCreateDto to Rental entity
-            var rentalEntity = _mapper.Map<Rental>(rental);
+            //var rentalEntity = _mapper.Map<Rental>(rental);
 
 
 
-            try
-            {
+
+
                 // Send the Rental entity to the AddRentalCommand
-                await _mediator.Send(new AddRentalCommand(rentalEntity));
+                var response = await _mediator.Send(rental);
 
                 // Map the Rental entity to RentalReadDto
-                var rentalReadDto = _mapper.Map<RentalReadDto>(rentalEntity);
+                //var rentalReadDto = _mapper.Map<RentalReadDto>(rentalEntity);
 
                 // Return the mapped RentalReadDto
-                return Ok(rentalReadDto);
-            }
-            catch (Exception ex)
-            {
-                // Handle any exceptions that occur during command execution
-                return StatusCode(500, $"An error occurred while creating the rental: {ex.Message}");
+                 return  CreatedAtAction(nameof(Get),new {id=response});
 
-            }
+               // return response;
+            
+            
+                // Handle any exceptions that occur during command execution
+               // return StatusCode(500, $"An error occurred while creating the rental: {ex.Message}");
+
+            //}
 
 
 

@@ -42,8 +42,8 @@ namespace Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("RentalId")
-                        .HasColumnType("int");
+                    b.Property<Guid?>("RentalId")
+                        .HasColumnType("uniqueidentifier");
 
                     b.HasKey("MemberId");
 
@@ -77,8 +77,8 @@ namespace Infrastructure.Migrations
 
             modelBuilder.Entity("Domain.Entities.MovieRental", b =>
                 {
-                    b.Property<int>("RentalId")
-                        .HasColumnType("int");
+                    b.Property<Guid>("RentalId")
+                        .HasColumnType("uniqueidentifier");
 
                     b.Property<int>("MovieId")
                         .HasColumnType("int");
@@ -92,11 +92,9 @@ namespace Infrastructure.Migrations
 
             modelBuilder.Entity("Domain.Entities.Rental", b =>
                 {
-                    b.Property<int>("RentalId")
+                    b.Property<Guid>("RentalId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("RentalId"));
+                        .HasColumnType("uniqueidentifier");
 
                     b.Property<DateTime>("RentalDate")
                         .HasColumnType("datetime2");

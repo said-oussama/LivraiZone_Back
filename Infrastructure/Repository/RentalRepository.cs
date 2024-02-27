@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Repository
 {
-    public class RentalRepository : IRentalRepository
+    public class RentalRepository : GenericRepository<Rental>, IRentalRepository 
     {
         public static List<Rental> rentals = new List<Rental>()
         {
@@ -18,9 +18,9 @@ namespace Infrastructure.Repository
         };
         private readonly Context _rentalContext;
 
-        public RentalRepository(Context rentalContext)
+        public RentalRepository(Context rentalContext) : base(rentalContext) 
         {
-            _rentalContext = rentalContext;
+            //_rentalContext = rentalContext;
         }
 
         public Rental CreateRental(Rental rental)
