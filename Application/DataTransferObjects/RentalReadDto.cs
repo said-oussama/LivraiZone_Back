@@ -11,7 +11,7 @@ namespace Application.DataTransferObjects
         public Guid RentalId { get; set; }
         public decimal TotalCost { get; set; }
 
-        ////////
+        //////////////
 
        /// public int wess { get; set; }
     }

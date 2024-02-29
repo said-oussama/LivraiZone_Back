@@ -234,8 +234,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
@@ -316,7 +320,7 @@
               "RelativeDocumentMoniker": "Application\\DataTransferObjects\\RentalReadDto.cs",
               "ToolTip": "C:\\Users\\oussa\\Desktop\\LivraiZone_Back\\Application\\DataTransferObjects\\RentalReadDto.cs",
               "RelativeToolTip": "Application\\DataTransferObjects\\RentalReadDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-23T12:13:33.333Z",
               "EditorCaption": ""
@@ -331,8 +335,7 @@
               "RelativeToolTip": "Infrastructure\\Repository\\RentalRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T11:37:10.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T11:37:10.143Z"
             },
             {
               "$type": "Document",
@@ -345,10 +348,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T14:37:57.226Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
