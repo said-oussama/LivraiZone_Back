@@ -1,0 +1,6 @@
+@LivraiZone.API_HostAddress = http://localhost:5077
+
+GET {{LivraiZone.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

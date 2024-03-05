@@ -1,0 +1,12 @@
+C:\Users\oussa\Desktop\stage\LivraiZone\LivraiZone.Domain\bin\Debug\net8.0\LivraiZone.Domain.deps.json
+C:\Users\oussa\Desktop\stage\LivraiZone\LivraiZone.Domain\bin\Debug\net8.0\LivraiZone.Domain.dll
+C:\Users\oussa\Desktop\stage\LivraiZone\LivraiZone.Domain\bin\Debug\net8.0\LivraiZone.Domain.pdb
+C:\Users\oussa\Desktop\stage\LivraiZone\LivraiZone.Domain\obj\Debug\net8.0\LivraiZone.Domain.csproj.AssemblyReference.cache
+C:\Users\oussa\Desktop\stage\LivraiZone\LivraiZone.Domain\obj\Debug\net8.0\LivraiZone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\Desktop\stage\LivraiZone\LivraiZone.Domain\obj\Debug\net8.0\LivraiZone.Domain.AssemblyInfoInputs.cache
+C:\Users\oussa\Desktop\stage\LivraiZone\LivraiZone.Domain\obj\Debug\net8.0\LivraiZone.Domain.AssemblyInfo.cs
+C:\Users\oussa\Desktop\stage\LivraiZone\LivraiZone.Domain\obj\Debug\net8.0\LivraiZone.Domain.csproj.CoreCompileInputs.cache
+C:\Users\oussa\Desktop\stage\LivraiZone\LivraiZone.Domain\obj\Debug\net8.0\LivraiZone.Domain.dll
+C:\Users\oussa\Desktop\stage\LivraiZone\LivraiZone.Domain\obj\Debug\net8.0\refint\LivraiZone.Domain.dll
+C:\Users\oussa\Desktop\stage\LivraiZone\LivraiZone.Domain\obj\Debug\net8.0\LivraiZone.Domain.pdb
+C:\Users\oussa\Desktop\stage\LivraiZone\LivraiZone.Domain\obj\Debug\net8.0\ref\LivraiZone.Domain.dll
